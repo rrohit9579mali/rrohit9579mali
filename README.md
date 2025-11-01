@@ -10,7 +10,7 @@
 - 📊 Exploring **SQL, Pandas, NumPy, and Visualization Libraries**  
 - 🤝 Open to collaborate on **AI, ML, and Open Source projects**  
 - 💬 Ask me about **Data Science, Java, DSA, and Web Development**  
-- 📫 Reach me at: **rohitwalmikmali9579@gmail.com**  
+- 📫 Reach me at: **rohitvmali9579@gmail.com**  
 
 ---
 

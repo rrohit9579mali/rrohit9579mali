@@ -1,73 +1,63 @@
-## Hi there 👋, I'm Rohit Mali  
+# Hi there 👋, I'm Rohit Mali  
+### 🎓 Electronics & Communication Engineering | Data Science Aspirant | Problem Solver
 
-🎓 **Electronics & Communication Engineering Student | Aspiring Data Scientist | Java & DSA Enthusiast**  
+<p align="left">
+  <img src="https://img.shields.io/badge/LeetCode-400+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8A00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-2E8B57?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Data Science & Machine Learning Projects**  
-- 🌱 Learning **Advanced Java + Data Structures & Algorithms**  
-- 📊 Exploring **SQL, Pandas, NumPy, and Visualization Libraries**  
-- 🤝 Open to collaborate on **AI, ML, and Open Source projects**  
-- 💬 Ask me about **Data Science, Java, DSA, and Web Development**  
-- 📫 Reach me at: **rohitvmali9579@gmail.com**  
+- 👨‍💻 **Tech Journey:** 3rd Year ECE Student at R.C. Patel Institute of Technology.
+- 🔭 **Current Focus:** Building end-to-end Machine Learning pipelines & Mastering DSA.
+- 📊 **Achievements:** Solved **400+ problems on LeetCode** with a strong grasp of Arrays, Strings, and Graphs.
+- 💡 **Goal:** To solve real-world problems using Data Science and robust engineering fundamentals.
+- 📫 **Reach me at:** [rohitvmali9579@gmail.com](mailto:rohitvmali9579@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
-**Languages & Tools**  
-💻 Python | Java | SQL | JavaScript  
-📚 Pandas | NumPy | Matplotlib | Seaborn | scikit-learn | TensorFlow  
-🗄️ MySQL | MongoDB  
-🌐 HTML | CSS | Node.js  
+### 🛠️ Tech Stack & Skills
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, Java, SQL, JavaScript |
+| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow |
+| **Web Dev** | MERN Stack (MongoDB, Express, React, Node.js) |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Power BI |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Competitive Programming Stats (Dynamic)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrohit9579mali&show_icons=true&theme=tokyonight" alt="Rohit's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohit9579mali&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
+  <img src="https://leetcard.jacoblin.cool/Rohitmali95?theme=dark&font=Baloo%20Tamma%202" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rohitmali95?theme=dark&font=Baloo%20Tamma%202&ext=heatmap" alt="LeetCode Heatmap" />
 </p>
 
 ---
 
-## 🟡 LeetCode Achievements  
-### 🏅 Earned Badges  
-
+### 🔥 GitHub Activity & Stats
 <p align="center">
-  <!-- Example static badges -->
-  <img src="https://img.shields.io/badge/LeetCode-50_Days_Streak-brightgreen?logo=leetcode" />
-  <img src="https://img.shields.io/badge/LeetCode-100+_Problems_Solved-orange?logo=leetcode" />
-  <img src="https://img.shields.io/badge/LeetCode-Contest_Participant-blue?logo=leetcode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rrohit9579mali&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohit9579mali&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </p>
 
-
-### 📈 Stats Badge (Problems Solved + Streak)  
-![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/Rohitmali95?theme=dark)  
-
-### 🟢 LeetCode Streak Graph (Green Dots Like GitHub)  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rohitmali95?theme=dark&font=Baloo%20Tamma%202&ext=heatmap" alt="LeetCode Stats"/>
-</p>  
-
----
-
-## 🔥 Streak & Profile Rating
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rrohit9579mali&theme=tokyonight" alt="GitHub Streak" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rrohit9579mali&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=rrohit9579mali&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
 
-### 🎯 Competitive Programming
-- 🏆 Practicing **Java + DSA** on LeetCode, GeeksforGeeks & Codeforces  
-- 🚀 Solved 200+ problems in Arrays, Strings, Recursion, and Graphs  
-- 🔗 [Check out my LeetCode Profile](https://leetcode.com/Rohitmali95)  
+### 🌟 Featured Projects
+- 🚀 **Real Estate Intelligent System:** ML-based predictive modeling for property valuation.
+- 📧 **Email Spam Classifier:** NLP-based classification with high precision.
+- 📊 **Corruption Analysis Dashboard:** Interactive data visualization using Streamlit & Plotly.
 
 ---
 
-### 🌟 Fun Fact
-⚡ *“Data is the new oil, but DSA is the engine that runs on it!”*  
-
----
+### ⚡ Fun Fact
+*“Data is the new oil, but DSA is the engine that refines it into fuel!”*

@@ -40,16 +40,16 @@
 
 ---
 
-### 🔥 GitHub Activity & Stats
+### 📊 GitHub Activity & Analytics (Dynamic)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrohit9579mali&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohit9579mali&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rrohit9579mali&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs,contribs" alt="GitHub Stats Overview" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohit9579mali&layout=compact&theme=tokyonight&hide=html,css,javascript,scss" alt="Top Data Science Languages" height="190"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rrohit9579mali&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=rrohit9579mali&theme=tokyonight" alt="GitHub Streak" height="190"/>
 </p>
-
 ---
 
 ### 🌟 Featured Projects

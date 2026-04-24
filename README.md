@@ -15,7 +15,7 @@
 - 🔭 **Current Focus:** Building Machine Learning pipelines & Mastering Data Structures (DSA).
 - 📊 **Achievements:** Solved **330+ problems on LeetCode** with expertise in Arrays, Strings, and Graphs.
 - 💡 **Goal:** To solve real-world problems using Data Science and Engineering fundamentals.
-- 📫 **Reach me at:** [rohitvmali9579@gmail.com](mailto:rohitvmali9579@gmail.com)
+- 📫 **Reach me at:** [rohitvmali9579@gmail.com](mailto:rm9486129@gmail.com)
 
 ---
 

@@ -13,7 +13,7 @@
 ### 🚀 About Me
 - 👨‍💻 **Tech Journey:** 3rd Year ENTC Student at R.C. Patel Institute of Technology, Shirpur.
 - 🔭 **Current Focus:** Building Machine Learning pipelines & Mastering Data Structures (DSA).
-- 📊 **Achievements:** Solved **330+ problems on LeetCode** with expertise in Arrays, Strings, and Graphs.
+- 📊 **Achievements:** Solved **400+ problems on LeetCode** with expertise in Arrays, Strings, and Graphs.
 - 💡 **Goal:** To solve real-world problems using Data Science and Engineering fundamentals.
 - 📫 **Reach me at:** [rohitvmali9579@gmail.com](mailto:rm9486129@gmail.com)
 

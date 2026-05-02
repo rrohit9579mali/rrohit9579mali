@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Rohit Mali  
 ### 🎓 Electronics & Telecommunication Engineering | Data Science Aspirant | Problem Solver
 
-<p align="left">
+<p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8A00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Science-2E8B57?style=for-the-badge&logo=anaconda&logoColor=white" />

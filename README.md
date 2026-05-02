@@ -24,7 +24,6 @@
 | :--- | :--- |
 | **Languages** | Python, Java, SQL, JavaScript |
 | **Data Science** | Pandas, NumPy, Scikit-Learn, TensorFlow, Power BI |
-| **Web Dev** | MERN Stack (MongoDB, Express, React, Node.js) |
 | **Tools** | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---

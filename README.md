@@ -29,9 +29,6 @@
 ---
 
 ### 📊 LeetCode Stats (Real-time)
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rohitmali95?theme=dark&font=Baloo%20Tamma%202" alt="LeetCode Stats" />
-</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Rohitmali95?theme=dark&font=Baloo%20Tamma%202&ext=heatmap" alt="LeetCode Heatmap" />

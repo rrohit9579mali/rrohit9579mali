@@ -38,8 +38,8 @@
 
 ### 📊 GitHub Activity & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrohit9579mali&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs,contribs" alt="GitHub Stats Overview" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohit9579mali&layout=compact&theme=tokyonight&hide=html,css,javascript,scss" alt="Top Languages" height="190"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rrohit9579mali&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs,contribs" alt="Rohit's GitHub Stats" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohit9579mali&layout=compact&theme=tokyonight&hide=html,css,javascript,scss" alt="Rohit's Top Languages" height="190"/> 
 </p>
 
 <p align="center">
